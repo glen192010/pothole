@@ -1,0 +1,50 @@
+<annotation>
+  <folder>Positive data</folder>
+  <filename>G0066636</filename>
+  <path>E:\Dataset 1 (Simplex)\Train data\Positive data\G0066636.JPG</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>3680</width>
+    <height>2760</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>pothole</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>738</xmin>
+      <ymin>1542</ymin>
+      <xmax>1192</xmax>
+      <ymax>1744</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>pothole</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>968</xmin>
+      <ymin>1555</ymin>
+      <xmax>1270</xmax>
+      <ymax>1682</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>pothole</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1702</xmin>
+      <ymin>1462</ymin>
+      <xmax>2238</xmax>
+      <ymax>1658</ymax>
+    </bndbox>
+  </object>
+</annotation>
