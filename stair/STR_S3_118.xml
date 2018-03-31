@@ -1,0 +1,38 @@
+<annotation>
+  <folder>Stairs</folder>
+  <filename>STR_S3_118</filename>
+  <path>C:\Users\Glen\Desktop\proj CM\Stairs\STR_S3_118.JPG</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>3207</width>
+    <height>3162</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>staircase</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>633</xmin>
+      <ymin>494</ymin>
+      <xmax>1651</xmax>
+      <ymax>2608</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>staircase</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1473</xmin>
+      <ymin>1276</ymin>
+      <xmax>2455</xmax>
+      <ymax>2803</ymax>
+    </bndbox>
+  </object>
+</annotation>
