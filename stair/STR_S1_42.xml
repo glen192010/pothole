@@ -1,0 +1,38 @@
+<annotation>
+  <folder>Stairs</folder>
+  <filename>STR_S1_42</filename>
+  <path>C:\Users\Glen\Desktop\proj CM\Stairs\STR_S1_42.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>3120</width>
+    <height>4160</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>staircase</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>856</xmin>
+      <ymin>1923</ymin>
+      <xmax>2427</xmax>
+      <ymax>4160</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>staircase</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>127</xmin>
+      <ymin>2773</ymin>
+      <xmax>1681</xmax>
+      <ymax>4160</ymax>
+    </bndbox>
+  </object>
+</annotation>
