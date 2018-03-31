@@ -1,0 +1,26 @@
+<annotation>
+  <folder>Stairs</folder>
+  <filename>STR_S3_99</filename>
+  <path>C:\Users\Glen\Desktop\proj CM\Stairs\STR_S3_99.JPG</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>3456</width>
+    <height>4608</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>staircase</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1297</xmin>
+      <ymin>97</ymin>
+      <xmax>2684</xmax>
+      <ymax>4450</ymax>
+    </bndbox>
+  </object>
+</annotation>
